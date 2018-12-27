@@ -1,0 +1,19 @@
+﻿body {
+}
+
+.background-red{
+    background-color:red;
+}
+
+.background-blue{
+    background-color:#e3e4f3;
+}
+.text-black{
+    color:black !important;
+    font-family: cursive;
+    font-weight: bold;
+}
+.text-black:hover, .text-black:focus{
+    background-color:red;
+    display:block;
+}
